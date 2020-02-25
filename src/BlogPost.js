@@ -15,14 +15,11 @@ export default class BlogPost extends Component {
         Just like moons and like suns,<br/>
         With the certainty of tides,<br/>
         Just like hopes springing high,<br/>
-        Still I'll rise.<br/>
+        Still Ill rise.<br/>
         -Maya Angelou<br/>
-
-        {/* (remove the comment ticks and their surrounding brackets)
         <Comment commentText={comments[0]} />
         <Comment commentText={comments[0]} />
-        <Comment commentText={comments[0]} />
-        */}
+        <Comment commentText={comments[0]} />  
       </div>
     );
   }
